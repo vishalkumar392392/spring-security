@@ -1,0 +1,31 @@
+package com.vishal.springcloud.controller;
+
+import java.net.URI;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
+
+import com.vishal.springcloud.model.Product;
+import com.vishal.springcloud.repository.ProductRepository;
+
+@RestController
+@RequestMapping("/productapi")
+public class ProductRestController {
+
+	@Autowired
+	private ProductRepository repo;
+
+	@PostMapping("/products")
+	public Product create(@RequestBody Product product) {
+		
+		RestTemplate restTemplate = new RestTemplate();
+		restTemplate.getForEntity(new URI("http://127.0.0.1:8080/couponapi/coupons/"+product.getCouponCode()), Coupon.class);
+		
+		return repo.save(product);
+	}
+
+}

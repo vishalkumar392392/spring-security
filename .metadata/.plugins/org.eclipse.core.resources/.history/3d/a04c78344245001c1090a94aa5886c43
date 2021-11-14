@@ -1,0 +1,6 @@
+package com.vishal.springcloud.model;
+
+@Entity
+public class Coupon {
+
+}

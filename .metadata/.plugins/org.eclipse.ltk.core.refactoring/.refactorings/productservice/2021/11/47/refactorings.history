@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;url&apos; from expression &apos;new URI(&quot;http://127.0.0.1:8080/couponapi/coupons/&quot; + product.getCouponCode())&apos;&#x0D;&#x0A;- Original project: &apos;productservice&apos;&#x0D;&#x0A;- Variable name: &apos;url&apos;&#x0D;&#x0A;- Destination method: &apos;com.vishal.springcloud.controller.ProductRestController.create()&apos;&#x0D;&#x0A;- Variable expression: &apos;new URI(&quot;http://127.0.0.1:8080/couponapi/coupons/&quot; + product.getCouponCode())&apos;" description="Extract local variable &apos;url&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.vishal.springcloud.controller{ProductRestController.java" name="url" replace="false" selection="1126 75" stamp="1636894283182" varType="false" version="1.0"/>
+</session>

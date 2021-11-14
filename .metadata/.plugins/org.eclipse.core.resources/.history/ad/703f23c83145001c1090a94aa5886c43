@@ -1,0 +1,5 @@
+package com.vishal.security.firstapp.config;
+
+public class SecurityConfig {
+
+}
