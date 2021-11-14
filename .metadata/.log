@@ -1787,3 +1787,72 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:132)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:11.011
+!MESSAGE Preparing classpath changed notification couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:11.015
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:11.017
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:11.019
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:11.037
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:45.465
+!MESSAGE Preparing classpath changed notification couponservice-security-start
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:45.472
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:45.476
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:45.479
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-security-start false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:45.482
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:45.519
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:47.619
+!MESSAGE Preparing classpath changed notification couponservice-security-start
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:47.622
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:47.635
+!MESSAGE classpath=97 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:47.648
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-security-start false 97
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:47.651
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:01:47.669
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:07:32.043
+!MESSAGE Preparing classpath changed notification couponservice-security-start
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:07:32.046
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:07:32.058
+!MESSAGE classpath=99 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:07:32.068
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-security-start false 99
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:07:32.070
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:07:32.080
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
