@@ -1856,3 +1856,126 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-14 19:07:32.080
 !MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:11.257
+!MESSAGE Preparing classpath changed notification couponservice-security-start
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:11.261
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:11.263
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-security-start true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:11.265
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:11.341
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:39.989
+!MESSAGE Preparing classpath changed notification oauth2-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:39.992
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:39.996
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:39.998
+!MESSAGE buffering callback sts4.classpath.jnntBnpw oauth2-couponservice false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:40.001
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:40.034
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:45.536
+!MESSAGE Preparing classpath changed notification oauth2-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:45.539
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:45.556
+!MESSAGE classpath=99 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:45.569
+!MESSAGE buffering callback sts4.classpath.jnntBnpw oauth2-couponservice false 99
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:45.571
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:25:45.594
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:26:41.528
+!MESSAGE Preparing classpath changed notification oauth2-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:26:41.530
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:26:41.544
+!MESSAGE classpath=134 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:26:41.566
+!MESSAGE buffering callback sts4.classpath.jnntBnpw oauth2-couponservice false 134
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:26:41.568
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:26:41.577
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:29.520
+!MESSAGE Preparing classpath changed notification oauth2-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:29.522
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:29.531
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:29.538
+!MESSAGE buffering callback sts4.classpath.jnntBnpw oauth2-couponservice false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:29.540
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:29.548
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:41.526
+!MESSAGE Preparing classpath changed notification oauth2-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:41.528
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:41.544
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:41.555
+!MESSAGE buffering callback sts4.classpath.jnntBnpw oauth2-couponservice false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:41.557
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 00:27:41.567
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 12:59:42.136
+!MESSAGE Preparing classpath changed notification oauth2-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 12:59:42.139
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 12:59:42.152
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 12:59:42.164
+!MESSAGE buffering callback sts4.classpath.jnntBnpw oauth2-couponservice false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 12:59:42.166
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 12:59:42.191
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
