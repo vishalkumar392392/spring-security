@@ -1,0 +1,47 @@
+CREATE TABLE student 
+(
+ID INT NOT NULL AUTO_INCREMENT,
+FIRST_NAME VARCHAR(20),
+LAST_NAME VARCHAR(20),
+EMAIL VARCHAR(20),
+PASSWORD VARCHAR(256), 
+PRIMARY KEY (ID),
+UNIQUE KEY (EMAIL)
+);
+
+CREATE TABLE role 
+(
+ID INT NOT NULL AUTO_INCREMENT,
+NAME VARCHAR(20),
+PRIMARY KEY (ID)
+);
+
+CREATE TABLE student_ROLE(
+STUDENT_ID int,
+ROLE_ID int,
+FOREIGN KEY (student_id)
+REFERENCES student(id),
+FOREIGN KEY (role_id)
+REFERENCES role(id)
+);
+
+
+
+
+CREATE DEFINER=`root`@`localhost` PROCEDURE `register_student`(first_name varchar(20), last_name varchar(20), email varchar(50),
+password varchar(255), role int)
+BEGIN
+	DECLARE stu_id int;
+	INSERT INTO student(FIRST_NAME, LAST_NAME, EMAIL, PASSWORD ) VALUES(first_name, last_name, email, password);
+     select s.id into stu_id  from student s where s.email = email;
+    INSERT INTO student_role(STUDENT_ID, ROLE_ID) values(stu_id, role);
+    select 'Student added Succesfully';
+END
+
+
+CREATE DEFINER=`root`@`localhost` PROCEDURE `delete_student`(id int)
+BEGIN
+	delete from student_role sr where sr.STUDENT_ID = id; 
+	delete from student s where s.id = id;
+    select 'Deleted successfully';
+END
