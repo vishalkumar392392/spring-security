@@ -1979,3 +1979,572 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 12:59:42.191
 !MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.eclipse.ui.workbench.texteditor 4 0 2021-11-15 13:53:57.297
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.isDirty(AbstractTextEditor.java:7196)
+	at org.eclipse.ui.internal.Workbench.getFilteredSaveables(Workbench.java:3511)
+	at org.eclipse.ui.internal.Workbench.saveAll(Workbench.java:3484)
+	at org.eclipse.ui.ide.IDE$1.run(IDE.java:1495)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.ide.IDE.saveAllEditors(IDE.java:1483)
+	at org.eclipse.ui.actions.CloseResourceAction.run(CloseResourceAction.java:190)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:171)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:579)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:413)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3988)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3587)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:660)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:24.624
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:24.626
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:24.629
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:24.632
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:24.635
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:24.666
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:30.494
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:30.497
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:30.514
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:30.532
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:30.534
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 13:54:30.545
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.eclipse.ui.workbench.texteditor 4 0 2021-11-15 15:17:46.648
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.isDirty(AbstractTextEditor.java:7196)
+	at org.eclipse.ui.internal.Workbench.getFilteredSaveables(Workbench.java:3511)
+	at org.eclipse.ui.internal.Workbench.saveAll(Workbench.java:3484)
+	at org.eclipse.ui.ide.IDE$1.run(IDE.java:1495)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.ide.IDE.saveAllEditors(IDE.java:1483)
+	at org.eclipse.ui.actions.CloseResourceAction.run(CloseResourceAction.java:190)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:171)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:579)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:413)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3988)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3587)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:660)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:08.412
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice-seperated-auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:08.415
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:08.417
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:08.420
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice-seperated-auth-server false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:08.422
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:08.445
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:11.544
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice-seperated-auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:11.546
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:11.557
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:11.566
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice-seperated-auth-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:11.567
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:18:11.573
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:43.075
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:43.080
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:43.082
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:43.085
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:43.087
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:43.096
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:44.856
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:44.859
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:44.868
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:44.876
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:44.879
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:19:44.887
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:21:45.394
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:21:45.396
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:21:45.407
+!MESSAGE classpath=123 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:21:45.416
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 123
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:21:45.418
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:21:45.425
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:15.690
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:15.692
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:15.703
+!MESSAGE classpath=123 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:15.712
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 123
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:15.714
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:15.722
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:41.450
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:41.453
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:41.457
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:41.460
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:41.462
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:22:41.469
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:23:47.286
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:23:47.288
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:23:47.304
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:23:47.318
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:23:47.320
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:23:47.330
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:33:59.755
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:33:59.759
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:33:59.779
+!MESSAGE classpath=131 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:33:59.797
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 131
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:33:59.801
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:34:00.797
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:34:00.800
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:34:00.803
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:34:00.820
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:34:00.833
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:34:00.835
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:34:00.941
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:03.180
+!MESSAGE Preparing classpath changed notification auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:03.184
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:03.186
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:03.188
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:03.197
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-15 16:28:03.493
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:03.499
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-15 16:28:03.503
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:03.503
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-15 16:28:03.507
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:03.507
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-15 16:28:03.511
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:03.511
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-15 16:28:03.516
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:03.516
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2021-11-15 16:28:04.254
+!MESSAGE DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:440)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getAttribute(DevtoolsUtil.java:232)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:197)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:212)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.handleStateChange(DevtoolsUtil.java:259)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:252)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:111)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:77)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1194)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1228)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:458)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:04.254
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2021-11-15 16:28:04.257
+!MESSAGE DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:440)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getAttribute(DevtoolsUtil.java:232)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:198)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil.getElement(DevtoolsUtil.java:212)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.handleStateChange(DevtoolsUtil.java:259)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:252)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:111)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:77)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1194)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1228)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:458)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:04.258
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-15 16:28:04.585
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:04.585
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-15 16:28:04.590
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2021-11-15 16:28:04.590
+!MESSAGE Launch configuration auth-server - AuthServerApplication at file:/C:/Users/vpalla/Desktop/vishal/Spring-boot/.metadata/.plugins/org.eclipse.debug.core/.launches/auth-server%20-%20AuthServerApplication.launch does not exist.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:32.630
+!MESSAGE Preparing classpath changed notification auth-server-symmentric
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:32.633
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:32.636
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:32.641
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server-symmentric false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:32.644
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:32.751
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:35.089
+!MESSAGE Preparing classpath changed notification auth-server-symmentric
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:35.092
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:35.143
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:35.160
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server-symmentric false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:35.163
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:28:35.183
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:23.515
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice-seperated-auth-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:23.517
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:23.519
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice-seperated-auth-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:23.521
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:23.531
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:42.439
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice-seperated-auth-server-symmentric
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:42.441
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:42.444
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:42.447
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice-seperated-auth-server-symmentric false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:42.449
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:42.507
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:44.465
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice-seperated-auth-server-symmentric
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:44.468
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:44.487
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:44.503
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice-seperated-auth-server-symmentric false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:44.505
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:44.520
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
