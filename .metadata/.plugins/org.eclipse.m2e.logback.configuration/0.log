@@ -1892,3 +1892,93 @@ org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthSe
 2021-11-15 16:52:16,564 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-11-15 16:52:16,566 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-11-15 16:52:16,572 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 16:52:16,575 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 16:52:16,575 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\auth-server-symmentric\src\test\resources
+2021-11-15 18:34:22,855 [Worker-340: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vishal.springcloud:couponservice:0.0.1-SNAPSHOT @ C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\pom.xml.
+2021-11-15 18:34:27,945 [Worker-340: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /couponservice-method-level-security/src/main/java
+2021-11-15 18:34:27,946 [Worker-340: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /couponservice-method-level-security/src/main/resources
+2021-11-15 18:34:27,947 [Worker-340: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /couponservice-method-level-security/src/main/resources
+2021-11-15 18:34:27,947 [Worker-340: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /couponservice-method-level-security/src/test/java
+2021-11-15 18:34:28,991 [Worker-340: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2021-11-15 18:34:32,302 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:34:32,302 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:34:32,303 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:34:32,335 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:34:32,339 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:34:32,339 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:34:32,339 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:34:52,816 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:34:52,816 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:34:52,818 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:34:52,826 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:34:52,828 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:34:52,828 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:34:52,828 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:35:06,828 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:35:06,828 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:35:06,829 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:35:06,851 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:35:06,854 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:35:06,854 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:35:06,854 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:35:41,889 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:35:41,889 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:35:41,890 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:35:41,907 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:35:41,909 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:35:41,909 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:35:41,909 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:35:46,326 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:35:46,327 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:35:46,328 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:35:46,347 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:35:46,349 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:35:46,349 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:35:46,349 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:40:09,501 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:40:09,501 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:40:09,502 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:40:09,512 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:40:09,513 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:40:09,513 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:40:09,514 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:43:00,715 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:43:00,715 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:43:00,716 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:43:00,737 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:43:00,738 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:43:00,738 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:43:00,738 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:43:57,010 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:43:57,010 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:43:57,013 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:43:57,052 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:43:57,062 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:43:57,063 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:43:57,063 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:45:01,015 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:45:01,015 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:45:01,016 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:45:01,038 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:45:01,040 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:45:01,040 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:45:01,040 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:56:03,131 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:56:03,131 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:56:03,132 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-15 18:56:03,142 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-15 18:56:03,143 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:56:03,143 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:56:03,143 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:57:02,166 [Worker-395: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:57:02,166 [Worker-395: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:57:02,166 [Worker-395: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\resources
+2021-11-15 18:57:02,166 [Worker-395: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\resources
+2021-11-15 18:57:02,167 [Worker-395: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:57:02,167 [Worker-395: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:57:02,168 [Worker-395: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\resources
+2021-11-15 18:57:03,417 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-15 18:57:03,417 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-15 18:57:03,417 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\resources
+2021-11-15 18:57:03,417 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\resources
+2021-11-15 18:57:03,419 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

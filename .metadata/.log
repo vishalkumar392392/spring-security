@@ -2548,3 +2548,1290 @@ org.eclipse.debug.core.DebugException: Launch configuration auth-server - AuthSe
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 16:32:44.520
 !MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:33:52.064
+!MESSAGE Preparing classpath changed notification jwt-oauth-couponservice-seperated-auth-server-symmentric
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:33:52.071
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:33:52.073
+!MESSAGE buffering callback sts4.classpath.jnntBnpw jwt-oauth-couponservice-seperated-auth-server-symmentric true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:33:52.076
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:33:52.100
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:00.158
+!MESSAGE Preparing classpath changed notification auth-server-symmentric
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:00.161
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:00.163
+!MESSAGE buffering callback sts4.classpath.jnntBnpw auth-server-symmentric true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:00.166
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:00.182
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:22.391
+!MESSAGE Preparing classpath changed notification couponservice-method-level-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:22.393
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:22.395
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:22.397
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-method-level-security false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:22.399
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:22.419
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:28.929
+!MESSAGE Preparing classpath changed notification couponservice-method-level-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:28.931
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:28.975
+!MESSAGE classpath=99 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:28.987
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-method-level-security false 99
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:28.989
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:34:28.999
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:05.156
+!MESSAGE Preparing classpath changed notification couponservice-method-level-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:05.160
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:05.163
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:05.166
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-method-level-security false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:05.168
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:05.176
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.185
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/CouponserviceApplication.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.186
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/CouponserviceApplication.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.187
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\CouponserviceApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.190
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/model/Coupon.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.191
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/model/Coupon.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.191
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Coupon.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.195
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/model/Role.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.196
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/model/Role.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.196
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\Role.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.200
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/model/User.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.201
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/model/User.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.201
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\model\User.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.205
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/repository/CouponRepository.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.206
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/repository/CouponRepository.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.206
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\CouponRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.209
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/repository/RoleRepository.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.210
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/repository/RoleRepository.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.210
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\RoleRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.214
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/repository/UserRepository.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.214
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/main/java/com/vishal/springcloud/repository/UserRepository.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.214
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\main\java\com\vishal\springcloud\repository\UserRepository.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2021-11-15 18:57:06.218
+!MESSAGE Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1203)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/test/java/com/vishal/springcloud/CouponserviceApplicationTests.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-11-15 18:57:06.219
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/couponservice-method-level-security/src/test/java/com/vishal/springcloud/CouponserviceApplicationTests.java)[368]: java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-11-15 18:57:06.219
+!MESSAGE File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\vpalla\Desktop\vishal\Spring-boot\couponservice-method-level-security\src\test\java\com\vishal\springcloud\CouponserviceApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1175)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1214)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:113)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:965)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:634)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:12.449
+!MESSAGE Preparing classpath changed notification couponservice-method-level-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:12.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-11-15 18:57:12.453
+!MESSAGE Problems occurred refreshing the selected resources.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2021-11-15 18:57:12.453
+!MESSAGE The project description file (.project) for 'couponservice-method-level-security' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'couponservice-method-level-security' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:907)
+	at org.eclipse.core.internal.resources.Project.updateDescription(Project.java:1346)
+	at org.eclipse.core.internal.resources.File.updateMetadataFiles(File.java:376)
+	at org.eclipse.core.internal.localstore.RefreshLocalVisitor.visit(RefreshLocalVisitor.java:291)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:118)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refreshResource(FileSystemResourceManager.java:977)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refresh(FileSystemResourceManager.java:960)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1557)
+	at org.eclipse.ui.actions.RefreshAction.refreshResource(RefreshAction.java:274)
+	at org.eclipse.ui.actions.RefreshAction$2.execute(RefreshAction.java:234)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:110)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.ui.internal.navigator.resources.actions.ResourceMgmtActionProvider$1$1.runInWorkspace(ResourceMgmtActionProvider.java:232)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:12.455
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:12.456
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-method-level-security false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:12.458
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:12.462
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:20.488
+!MESSAGE Preparing classpath changed notification couponservice-method-level-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:20.489
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:20.491
+!MESSAGE buffering callback sts4.classpath.jnntBnpw couponservice-method-level-security true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:20.492
+!MESSAGE executing callback sts4.classpath.jnntBnpw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 18:57:20.497
+!MESSAGE executing callback sts4.classpath.jnntBnpw SUCCESS [done]
